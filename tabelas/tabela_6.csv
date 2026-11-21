@@ -1,0 +1,5 @@
+Modelo,MAE,RMSE,R²,Redução do MAE vs. baseline
+Baseline (média por hora e tipo de dia),79.95,119.589,0.648,0.0
+Árvore de Decisão (sem limite),56.809,88.063,0.809,28.945
+Árvore de Decisão (profundidade 10),60.408,94.594,0.78,24.443
+Random Forest (200 árvores),46.922,71.995,0.872,41.311
